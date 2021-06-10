@@ -384,6 +384,7 @@
         font-size: 22px;
         padding: 20px 50px;
         width: 450px;
+        height: 26px;
         margin: 40px 0;
     }
     
@@ -719,6 +720,7 @@
             width: 450px;
             margin: 40px 0;
             width: 340px;
+            height: 25px;
         }
         
         .data__btn {
